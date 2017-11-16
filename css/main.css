@@ -45,9 +45,14 @@ footer {
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.0em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+.blog {
+  margin: 10px;
+  text-indent: 25px;
 }
